@@ -11,7 +11,7 @@ let products = [
         image: '<img src="/img/wallet.jpg" alt="Denim wallet" >',
         title: '<h1>Leather Wallets</h1>',
         price: '<span>$</span><p class="price">19.99</p>',
-        caption: '<p>Some text about the wallet..</p>',
+        caption: '<p>Some text about the wallet..</pn>',
         purchase:'<p><button>Add to Cart</button></p>'
     },
 
