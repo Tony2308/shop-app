@@ -22,26 +22,17 @@
             <li>New Arrivals</li>
             <li>Our shops</li>
             <li>Sign in</li>
-            <li><a href="http://cart"><i class="fas fa-shopping-cart fa-lg"></i></a> </li>
+            <li><a href="http://"><i class="fas fa-shopping-cart fa-lg"></i></a> </li>
         </ul>
        
     </header>
     <main class ="w-screen flex flex-col flex-wrap items-center">
 
-            <ol class="cartAside">
-                <h2>My cart's selected items</h2>
-                <div class="pricetab">Total items selected are: <span id="itemNumber"></span><br><p> Total amount : $<span id="sumDisplay"></span></p></div>
-                
-            </ol>
-
-        <section id="proDisplay"  class=" productDisplay mt-0 w-11/12 min-h-screen max-h-max bg-white flex flex-row justify-center flex-wrap px-3 py-3">
-                  
-        <section class="mt-0 inset-0 w-screen h-1/6 flex flex-row justify-center flex-wrap ">
-            <div class="flex justify-end items-center h- w-2/4 text-gray-900 pr-3 bg-white"><h1 class="heading"> Men's</h1></div>
-            <div class="flex justify-start items-center h- w-2/4 text-white pl-3 bg-gray-900 "><h1 class="heading"> Wear</h1> </div>
-        </section>
-        
-        </section>
+        <ol class="cartAside">
+            <h2>My cart's selected items</h2>
+            <div class="pricetab">Total items selected are: <span id="itemNumber"></span><br><p> Total amount : $<span id="sumDisplay"></span></p></div>
+            
+        </ol>
 
     </main>
     <footer>
